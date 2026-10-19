@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Apnar Profile Image ba Banner ekhane add korte paren -->
-  <img src="APNAR_IMAGE_LINK_EKHANE_DIN" alt="Hanjala's Profile" width="150px" style="border-radius: 50%;" />
+  <img src="[APNAR_IMAGE_LINK_EKHANE_DIN](https://avatars.githubusercontent.com/u/168889890?v=4)" alt="Hanjala's Profile" width="150px" style="border-radius: 50%;" />
 
   <h1>Hi there 👋, I'm Hanjala!</h1>
   
