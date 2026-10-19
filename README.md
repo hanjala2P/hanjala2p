@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- Apnar Profile Image ba Banner ekhane add korte paren -->
- <img src="https://github.com/user-attachments/assets/6aba7c5b-a562-43cb-b6eb-8a74ac37c253" alt="Hanjala's Profile" width="160px" style="border-radius: 50%; object-fit: cover;" />
+<img src="https://github.com/user-attachments/assets/6aba7c5b-a562-43cb-b6eb-8a74ac37c253" alt="Hanjala's Profile" width="100%" style="max-height: 350px; object-fit: cover; border-radius: 12px;" />
 
   <h1>Hi there 👋, I'm Hanjala!</h1>
   
