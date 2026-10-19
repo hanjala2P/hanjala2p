@@ -1,6 +1,8 @@
 <div align="left">
   <!-- Left-aligned Profile Picture & Intro -->
-  <img src="https://github.com/user-attachments/assets/6aba7c5b-a562-43cb-b6eb-8a74ac37c253" alt="Hanjala's Profile" width="160px" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;" />
+ <a href="https://github.com/hanjala2P">
+    <img src="https://github.com/user-attachments/assets/6aba7c5b-a562-43cb-b6eb-8a74ac37c253" alt="Hanjala's Profile" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+  </a>
 
   <h1>Hi there 👋, I'm Hanjala!</h1>
   
